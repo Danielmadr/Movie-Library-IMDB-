@@ -1,0 +1,30 @@
+Directors:
+    Id:1,Name:The Wachowskis,Nationality:American,BirthDate:1947-09-14
+    Movies:
+        Id: 1, Title: The Matrix, Release Date: 1999
+
+    Id:2,Name:Steven Spielberg,Nationality:American,BirthDate:1946-12-18
+    Movies:
+        Id: 2, Title: Jurassic Park, Release Date: 1993
+
+    Id:3,Name:James Cameron,Nationality:Canadian,BirthDate:1954-08-16
+    Movies:
+        Id: 3, Title: Avatar, Release Date: 2009
+        Id: 4, Title: Titanic, Release Date: 1997
+
+    Id:4,Name:George Lucas,Nationality:American,BirthDate:1944-05-14
+    Movies:
+        Id: 5, Title: Star Wars, Release Date: 1977
+
+    Id:5,Name:Christopher Nolan,Nationality:British,BirthDate:1970-07-30
+    Movies:
+        Id: 6, Title: The Dark Knight Rises, Release Date: 2012
+
+    Id:6,Name:Quentin Tarantino,Nationality:American,BirthDate:1963-03-27
+    Movies:
+        Id: 7, Title: Inglourious Basterds, Release Date: 2009
+
+    Id:7,Name:Frank Darabont,Nationality:American,BirthDate:1959-01-28
+    Movies:
+        Id: 8, Title: The Shawshank Redemption, Release Date: 1994
+

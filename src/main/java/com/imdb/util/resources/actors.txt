@@ -1,0 +1,65 @@
+Actors:
+    Id:1,Name:Keanu Reeves,Nationality:Canadian,BirthDate:1964-09-02
+    Movies:
+        Id: 1, Title: The Matrix, Release Date: 1999
+
+    Id:2,Name:Carrie-Anne Moss,Nationality:Canadian,BirthDate:1967-08-21
+    Movies:
+        Id: 1, Title: The Matrix, Release Date: 1999
+
+    Id:3,Name:Sam Neill,Nationality:New Zealand,BirthDate:1947-09-14
+    Movies:
+        Id: 2, Title: Jurassic Park, Release Date: 1993
+
+    Id:4,Name:Laura Dern,Nationality:American,BirthDate:1967-02-10
+    Movies:
+        Id: 2, Title: Jurassic Park, Release Date: 1993
+
+    Id:5,Name:Sam Worthington,Nationality:Australian,BirthDate:1976-08-02
+    Movies:
+        Id: 3, Title: Avatar, Release Date: 2009
+
+    Id:6,Name:Zoe Saldana,Nationality:American,BirthDate:1978-06-19
+    Movies:
+        Id: 3, Title: Avatar, Release Date: 2009
+
+    Id:7,Name:Leonardo DiCaprio,Nationality:American,BirthDate:1974-11-11
+    Movies:
+        Id: 4, Title: Titanic, Release Date: 1997
+
+    Id:8,Name:Kate Winslet,Nationality:British,BirthDate:1975-10-05
+    Movies:
+        Id: 4, Title: Titanic, Release Date: 1997
+
+    Id:9,Name:Mark Hamill,Nationality:American,BirthDate:1951-09-25
+    Movies:
+        Id: 5, Title: Star Wars, Release Date: 1977
+
+    Id:10,Name:Harrison Ford,Nationality:American,BirthDate:1942-07-13
+    Movies:
+        Id: 5, Title: Star Wars, Release Date: 1977
+
+    Id:11,Name:Christian Bale,Nationality:British,BirthDate:1974-01-30
+    Movies:
+        Id: 6, Title: The Dark Knight Rises, Release Date: 2012
+
+    Id:12,Name:Tom Hardy,Nationality:British,BirthDate:1977-09-15
+    Movies:
+        Id: 6, Title: The Dark Knight Rises, Release Date: 2012
+
+    Id:13,Name:Brad Pitt,Nationality:American,BirthDate:1963-12-18
+    Movies:
+        Id: 7, Title: Inglourious Basterds, Release Date: 2009
+
+    Id:14,Name:Christoph Waltz,Nationality:German,BirthDate:1956-10-04
+    Movies:
+        Id: 7, Title: Inglourious Basterds, Release Date: 2009
+
+    Id:15,Name:Tim Robbins,Nationality:American,BirthDate:1958-10-16
+    Movies:
+        Id: 8, Title: The Shawshank Redemption, Release Date: 1994
+
+    Id:16,Name:Morgan Freeman,Nationality:American,BirthDate:1937-06-01
+    Movies:
+        Id: 8, Title: The Shawshank Redemption, Release Date: 1994
+
